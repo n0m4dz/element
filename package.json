@@ -1,0 +1,29 @@
+{
+  "name": "element",
+  "version": "0.0.1",
+  "description": "element css framework",
+  "main": "element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n0m4dz/element.git"
+  },
+  "keywords": [
+    "element",
+    "css",
+    "framework",
+    "ui",
+    "scss"
+  ],
+  "author": "n0m4dz (tseegii.it@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n0m4dz/element/issues"
+  },
+  "homepage": "https://github.com/n0m4dz/element",
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  }
+}
